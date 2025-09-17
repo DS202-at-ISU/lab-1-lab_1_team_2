@@ -26,6 +26,8 @@ Step 12.4:
 
 -   Jyotika's Note: This is a line from RStudio.
 
+-   Naveen's Note: This is a line from RStudio (The line the textbook asked to commit and save)
+
 12.5:
 
 -   Jyotika's Note: Having problems with pushing to git as I am denied access to the github repo. I was in the wrong repo, I was not in our team2 repo.
