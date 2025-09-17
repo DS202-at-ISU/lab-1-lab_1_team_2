@@ -27,3 +27,7 @@ Step 12.4:
 12.5:
 
 -   Jyotika's Note: Having problems with pushing to git as I am denied access to the github repo. I was in the wrong repo, I was not in our team2 repo.
+
+12.6:
+
+-   Jyotika's note: I am able to view it in the browser

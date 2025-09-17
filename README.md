@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LpHtQdRY)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,24 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+Step 12.3:
+
+- Jyotika’s Note: I created a DS2020 directory and created a Labs sub
+  directory, I followed the instructions and cloned the github
+  repository via HTTPS. From there I was able to open the lab 1 project
+  on my RStudio
+
+Step 12.4:
+
+- Jyotika’s Note: This is a line from RStudio.
+
+12.5:
+
+- Jyotika’s Note: Having problems with pushing to git as I am denied
+  access to the github repo. I was in the wrong repo, I was not in our
+  team2 repo.
+
+12.6:
+
+- Jyotika’s note: I am able to view it in the browser
