@@ -48,3 +48,5 @@ Step 12.4:
 12.6:
 
 - Jyotika’s note: I am able to view it in the browser
+
+- Naveen’s Note: I can see it in the browser and the knitting worked
