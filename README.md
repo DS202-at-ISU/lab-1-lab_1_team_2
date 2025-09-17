@@ -24,15 +24,26 @@ Step 12.3:
   repository via HTTPS. From there I was able to open the lab 1 project
   on my RStudio
 
+- Naveen’s Note: I joined the DS2020 directory after my teammate created
+  it. I then cloned the repository to my my local files (git clone
+  https..). After cloning, I opened the Project in Rstudio to do the
+  rest of my tasks.
+
 Step 12.4:
 
 - Jyotika’s Note: This is a line from RStudio.
+
+- Naveen’s Note: This is a line from RStudio (The line the textbook
+  asked to commit and save)
 
 12.5:
 
 - Jyotika’s Note: Having problems with pushing to git as I am denied
   access to the github repo. I was in the wrong repo, I was not in our
   team2 repo.
+
+- Naveen’s Note: the message was pushed to the GitHub Repo. I helped my
+  classmate debug her issue with the error.
 
 12.6:
 

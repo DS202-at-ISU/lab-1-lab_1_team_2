@@ -32,6 +32,8 @@ Step 12.4:
 
 -   Jyotika's Note: Having problems with pushing to git as I am denied access to the github repo. I was in the wrong repo, I was not in our team2 repo.
 
+-   Naveen's Note: the message was pushed to the GitHub Repo. I helped my classmate debug her issue with the error.
+
 12.6:
 
 -   Jyotika's note: I am able to view it in the browser
