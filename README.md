@@ -36,7 +36,7 @@ Step 12.4:
 - Naveen’s Note: This is a line from RStudio (The line the textbook
   asked to commit and save)
 
-12.5:
+Step 12.5:
 
 - Jyotika’s Note: Having problems with pushing to git as I am denied
   access to the github repo. I was in the wrong repo, I was not in our
@@ -45,7 +45,7 @@ Step 12.4:
 - Naveen’s Note: the message was pushed to the GitHub Repo. I helped my
   classmate debug her issue with the error.
 
-12.6:
+Step 12.6:
 
 - Jyotika’s note: I am able to view it in the browser
 
