@@ -32,7 +32,9 @@ Step 12.3:
 - Oleksandr’s note: I joined the DS2020 directory after my teammate
   created it. I then cloned the repository to my my local files (git
   clone https..). After cloning, I opened the Project in Rstudio to do
-  the rest of my tasks. Step 12.4:
+  the rest of my tasks.
+
+Step 12.4:
 
 - Jyotika’s Note: This is a line from RStudio.
 
