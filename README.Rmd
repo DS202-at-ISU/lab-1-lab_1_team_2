@@ -22,11 +22,14 @@ Step 12.3:
 
 -   Naveen's Note: I joined the DS2020 directory after my teammate created it. I then cloned the repository to my my local files (git clone https..). After cloning, I opened the Project in Rstudio to do the rest of my tasks.
 
+-    Oleksandr's note: I joined the DS2020 directory after my teammate created it. I then cloned the repository to my my local files (git clone https..). After cloning, I opened the Project in Rstudio to do the rest of my tasks.
 Step 12.4:
 
 -   Jyotika's Note: This is a line from RStudio.
 
 -   Naveen's Note: This is a line from RStudio (The line the textbook asked to commit and save)
+
+-   Oleksandr's Note: This is a line from RStudio.
 
 Step 12.5:
 
@@ -34,8 +37,12 @@ Step 12.5:
 
 -   Naveen's Note: the message was pushed to the GitHub Repo. I helped my classmate debug her issue with the error.
 
+-   Oleksandr's Note: Having issues knitting and pushing the repo. 
+
 Step 12.6:
 
 -   Jyotika's note: I am able to view it in the browser.
 
 -   Naveen's Note: I can see it in the browser and the knitting worked
+
+-   Oleksandr's Note: I can see it in the browser 
